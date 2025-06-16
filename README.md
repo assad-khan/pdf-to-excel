@@ -4,6 +4,9 @@
 A Streamlit web application that extracts structured data from PDF documents using OpenAI's GPT model. This tool is especially useful for converting unstructured legal or tabular PDF text into clean, usable CSV data by specifying column names and custom extraction instructions.
 
 ---
+[![Watch the demo](thumbnail.png)](demo.webm)
+
+---
 
 ## 🚀 Features
 
@@ -15,7 +18,7 @@ A Streamlit web application that extracts structured data from PDF documents usi
 * 📤 **CSV Export**: Download extracted data as a CSV file.
 * 🧠 **Token-aware Chunking**: Ensures large PDFs are processed safely within token limits.
 * 🎨 **Modern UI**: Responsive and styled with custom CSS for a sleek experience.
-[![Watch the demo](thumbnail.png)](demo.webm)
+
 ---
 
 ## 🧰 Technologies Used
