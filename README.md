@@ -120,6 +120,13 @@ Then open your browser at `http://localhost:8501`.
 
 ---
 
+## 👤 Author
+
+**Asad Khan**
+[GitHub](https://github.com/assad-khan) | [Fiverr](https://www.fiverr.com/s/dDB9epg) | [LinkedIn](https://linkedin.com)
+
+---
+
 ## 📜 License
 
 ```
